@@ -69,6 +69,10 @@ src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.j
 
 <br>
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dutta2005&theme=vision_friendly_dark" alt="GitHub Streak"/>
+
+<br>
+
 <p align="center">
   <b>👥 Visitor Count</b><br>
   <img src="https://profile-counter.glitch.me/Dutta2005/count.svg" alt="Visitor Count" />

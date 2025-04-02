@@ -9,7 +9,8 @@
 <p>
   <a href="https://linkedin.com/in/rajdutta062005"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://x.com/RajDutta2005"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/></a>
-  <a href="https://instagram.com/raj_rd_001"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://drive.google.com/file/d/1-VBupepUrlglYaNCJwQkaqLqopZJNflC/view?usp=sharing
+"><img src="https://img.shields.io/badge/Resume-%23FF0000.svg?style=for-the-badge&logo=resume&logoColor=white" alt="Resume"/></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" />

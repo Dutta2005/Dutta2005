@@ -9,7 +9,7 @@
 <p>
   <a href="https://linkedin.com/in/rajdutta062005"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://x.com/RajDutta2005"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/></a>
-  <a href="https://drive.google.com/file/d/1cG8eoKVeIvmtACXwlX97d8r7uHKS8a3N/view?usp=sharing
+  <a href="https://drive.google.com/file/d/1VVlAUQg4ZF_9y21xYOKPZ1Ktiu3hsAnx/view?usp=sharing
 "><img src="https://img.shields.io/badge/Resume-%23FF0000.svg?style=for-the-badge&logo=resume&logoColor=white" alt="Resume"/></a>
 </p>
 

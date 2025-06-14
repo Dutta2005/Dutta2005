@@ -37,7 +37,11 @@ src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.j
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/NeonDB-1f2937?style=for-the-badge&logo=postgresql&logoColor=white" alt="NeonDB" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT" />
+  <img src="https://img.shields.io/badge/NextAuth.js-2F2F2F?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextAuth.js" />
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 </p>
@@ -46,6 +50,7 @@ src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.j
 <p align="center">
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Nodemon-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=BBDEAD" alt="Nodemon" />
   <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
@@ -58,7 +63,7 @@ src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.j
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Dutta2005&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Dutta2005&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dutta2005&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />

@@ -63,7 +63,7 @@ src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.j
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Dutta2005&theme=radical&hide_border=false&include_all_commits=false&counts_private=false" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Dutta2005&theme=radical&hide_border=false&include_all_commits=false&counts_private=true" alt="GitHub Stats" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dutta2005&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />

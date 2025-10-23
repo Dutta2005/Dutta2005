@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=header"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=40&pause=900&color=00BFFF&center=true&vCenter=true&width=800&height=100&lines=Hi+%F0%9F%91%8B,+I'm+Raj+Dutta!;Full+Stack+Developer+%7C+Problem+Solver;Lifelong+Learner+%7C+Tech+Enthusiast" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=40&pause=900&color=00BFFF&center=true&vCenter=true&width=800&height=100&lines=Hi+%F0%9F%91%8B,+I'm+Raj+Dutta!;Full+Stack+AI+Developer+%7C+Problem+Solver;Lifelong+Learner+%7C+Tech+Enthusiast" alt="Typing Animation" />
 
-<h3>🚀 Full Stack Developer | India 🇮🇳</h3>
+<h3>🚀 Full Stack AI Developer | India 🇮🇳</h3>
 
 <p>
   <a href="https://linkedin.com/in/rajdutta062005"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>

@@ -37,6 +37,7 @@ src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.j
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
     <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+    <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" alt="Drizzle"/>
   <img src="https://img.shields.io/badge/NeonDB-1f2937?style=for-the-badge&logo=postgresql&logoColor=white" alt="NeonDB" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT" />
@@ -47,6 +48,7 @@ src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.j
 
 <h3>🔧 Tools & Platforms</h3>
 <p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
@@ -80,8 +82,7 @@ src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.j
 
 <p align="center">
   <b>👥 Visitor Count</b><br>
-  <img src="https://profile-counter.glitch.me/Dutta2005/count.svg" alt="Visitor Count" />
-</p>
+    <img src="https://komarev.com/ghpvc/?username=Dutta2006&color=ff7800&style=flat-square" alt="Profile Views"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=footer"/>
 

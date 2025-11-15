@@ -9,7 +9,7 @@
 <p>
   <a href="https://linkedin.com/in/rajdutta062005"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://x.com/RajDutta2005"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/></a>
-  <a href="https://drive.google.com/file/d/1MjLGQrqfT4MsxBxx-ZTQCp0nakQSuq-A/view?usp=drivesdk"><img src="https://img.shields.io/badge/Resume-%23FF0000.svg?style=for-the-badge&logo=resume&logoColor=white" alt="Resume"/></a>
+  <a href="https://drive.google.com/file/d/1a__flUZA2-zwFwW3ZswLlTVjuHOOsc3s/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-%23FF0000.svg?style=for-the-badge&logo=resume&logoColor=white" alt="Resume"/></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" />
@@ -44,6 +44,18 @@ src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.j
   <img src="https://img.shields.io/badge/NextAuth.js-2F2F2F?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextAuth.js" />
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+</p>
+
+<h3>🔮 AI & LLM Development</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" /> 
+  <img src="https://img.shields.io/badge/LangGraph-4B3BFF?style=for-the-badge&logo=graphql&logoColor=white" alt="LangGraph" /> 
+  <img src="https://img.shields.io/badge/RAG%20(Retrieval%20Augmented%20Generation)-6A1B9A?style=for-the-badge&logo=redis&logoColor=white" alt="RAG" /> 
+  <img src="https://img.shields.io/badge/Agentic%20AI-1A73E8?style=for-the-badge&logo=googleassistant&logoColor=white" alt="Agentic AI" /> 
+  <img src="https://img.shields.io/badge/MCP%20(Model%20Context%20Protocol)-0A84FF?style=for-the-badge&logo=protocol&logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" /> 
+  <img src="https://img.shields.io/badge/Vector%20DBs-%2300A98F?style=for-the-badge&logo=apachecassandra&logoColor=white" alt="Vector DBs" /> 
+  <img src="https://img.shields.io/badge/Embeddings-444444?style=for-the-badge&logo=codemagic&logoColor=white" alt="Embeddings" />
 </p>
 
 <h3>🔧 Tools & Platforms</h3>

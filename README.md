@@ -76,15 +76,15 @@ src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.j
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Dutta2005&theme=radical&hide_border=false&include_all_commits=false&counts_private=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dutta2005&theme=radical&hide_border=false&include_all_commits=false&counts_private=true" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dutta2005&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dutta2005&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
-<img src="https://streak-stats.demolab.com/?user=Dutta2005&theme=codeSTACKr&hide_border=false" alt="GitHub Streak" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=Dutta2005&theme=dark&hide_border=false" alt="GitHub Streak" />
 
 <br>
 
